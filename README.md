@@ -54,12 +54,6 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-ldn86.dev-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-Seno●Impotent-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
   <a href="https://github.com/oipkil">
     <img src="https://img.shields.io/badge/GitHub-oipkil-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
